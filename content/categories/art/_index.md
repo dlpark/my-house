@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description for this category
+title: Art
+description: This covers all art-related content.
 image:
 
 # Badge style
