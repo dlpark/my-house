@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://dlpark.github.io"
+baseurl = "https://dlpark.github.io/my-house/"
 languageCode = "en-us"
 paginate = 5
 title = "Damien's House"
