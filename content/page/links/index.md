@@ -2,9 +2,13 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: A link to my profile (dlpark) on GitHub.
+    website: https://github.com/dlpark
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Park Fibre Arts
+    description: Want to know more about my fibre art adventures?  Find it here!
+    website: https://parkfibrearts.co.uk
+    #image: https://parkfibrearts.co.uk/wp-content/uploads/2024/02/Frame-1Logo-300x173.png
 menu:
     main: 
         weight: 4
@@ -14,20 +18,4 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+A collection of links for you to peruse at your leisure.  They're likely all about me and things I've done, so if that's what you're looking for, you're in luck!
