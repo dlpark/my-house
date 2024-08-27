@@ -22,3 +22,11 @@ url = "https://twitter.com/dlpark337"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/damien-levi-park/"
+
+[social.params]
+icon = "brand-linkedin"
