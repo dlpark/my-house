@@ -1,7 +1,7 @@
 ---
 title: Love Shot
 description: A short science-fiction piece - under 500 words.
-date: 2016-11-09
+date: 2020-12-23
 categories:
     - Writing
 tags:
