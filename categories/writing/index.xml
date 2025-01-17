@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Writing on Damien's House</title><link>https://dlpark.github.io/my-house/categories/writing/</link><description>Recent content in Writing on Damien's House</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dlpark.github.io/my-house/categories/writing/index.xml" rel="self" type="application/rss+xml"/><item><title>Academic Paper - Honours Final Report</title><link>https://dlpark.github.io/my-house/p/academic-paper-honours-final-report/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://dlpark.github.io/my-house/p/academic-paper-honours-final-report/</guid><description>&lt;h2 id="project-information">Project Information
+&lt;/h2>&lt;h3 id="the-background">The Background
+&lt;/h3>&lt;p>I attended Glasgow Caledonian University studying Computing (Web Systems Development) from 2010 to 2015. For our final year honours project, we had to either select an example idea from a booklet of tutor-compiled prompts or write a proposal for a project of our own. I was one of very few students who opted to devise my own project.&lt;/p>
+&lt;p>Reading has been a lifelong passion of mine, and I have been absolutely fascinated by eBooks since I first learned of their existence. I knew this would be a perfect opportunity to learn more about the open ePub eBook standard, and decided after some surface research that investigation into platform support for features within the standard could yield some interesting results.&lt;/p>
+&lt;h3 id="the-question">The Question
+&lt;/h3>&lt;blockquote>
+&lt;p>Do current eReading applications provide enough support for fully standards-compliant, interactive, accessible eBooks developed using the EPUB 3 standard to make their development a viable practice for publishers?&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="the-project">The Project
+&lt;/h3>&lt;p>The first stage of my project consisted of reviewing literature and documentation to familiarise myself with the ePub standard and how eBooks in ePub format are structured. I then moved on to plan, create, and test an ePub 3.0 standard compliant eBook to determine the support for its features across a range of devices and platforms.&lt;/p>
+&lt;h3 id="the-findings">The Findings
+&lt;/h3>&lt;p>It was found that accessibility was a prominent area in which support was lacking, both across dedicated eInk devices and e-reading software on other devices, such as personal computers, phones and tablets. Software created for reading ePub files was found to be somewhat inconsistent in areas of support, with certain pieces of software prioritising features based on use cases, such as MathML support. It would be interesting to revisit this now that a decade has passed and assess whether developers of e-reading software and eInk devices have moved towards supporting more accessibility features.&lt;/p>
+&lt;h2 id="full-report">Full Report
+&lt;/h2>&lt;p>For anyone keen to read the report that resulted from my honours project, I have embedded it here.&lt;/p>
+&lt;p>&lt;strong>Please note&lt;/strong>: I have redacted my former first name which changed as part of my transition, but have retained my former surname.&lt;/p>
+&lt;object data="hons.pdf" type="application/pdf" width="700px" height="700px">
+&lt;embed src="hons.pdf">
+&lt;p>This browser does not support PDFs. Please download the PDF to view it: &lt;a href="hons.pdf">Final Report&lt;/a>.&lt;/p>
+&lt;/embed>
+&lt;/object></description></item><item><title>Love Shot</title><link>https://dlpark.github.io/my-house/p/love-shot/</link><pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate><guid>https://dlpark.github.io/my-house/p/love-shot/</guid><description>&lt;p>It was easy enough for Sehun to kill himself. He put a bolt between his eyes as soon as he saw him. At that time, he didn’t really know anything about the &lt;em>others&lt;/em> apart from that they existed and had to be disposed of.&lt;/p>
+&lt;p>It was when he shot himself that he found out that they, too, bled. So they weren’t robots. They were made of organic matter, just the same as the originals. He preferred ranged weapons to keep his hands clean, and he didn’t like to get any closer than necessary. On this occasion, though, curiosity had got the better of him. It wasn’t every day you got to kill yourself and live to tell the tale.&lt;/p>
+&lt;p>He was cautious as he approached the body, half expecting it to open its eyes and get to its feet, to pull the arrow from its forehead like it was no more than a splinter. Of course, that didn’t happen. It wasn’t a sci-fi world. It only &lt;em>felt&lt;/em> like it.&lt;/p>
+&lt;p>He stood over himself for a long while, looking at his features as if he was admiring a realistic waxwork. It gave him chills remembering that only minutes before, this other him had been an animated being. But it was no more. Now he had one less of &lt;em>them&lt;/em> to worry about.&lt;/p>
+&lt;p>Somewhere in the fight he’d been separated from the other five, and so he’d gone on alone. He had faith that they’d all come together again in the end. They always did.&lt;/p>
+&lt;p>When he comes across Chanyeol, it catches him off-guard. He hesitates. It never occurred to him before that it would feel different seeing a carbon copy of one of his team members. He hadn’t needed to think twice before ending the life of the other him because he’d had no doubt in his mind that he was one of the &lt;em>others&lt;/em>.&lt;/p>
+&lt;p>Chanyeol spots him. &lt;em>Chanyeøl&lt;/em>.&lt;/p>
+&lt;p>He raises his bow, arrow readied, but he’s trembling. He’s fairly confident that this is Chanyeøl, not Chanyeol, but fairly confident isn’t good enough to make him loose his arrow into the other man’s face. Chanyeøl raises an eyebrow, flashes him a cocky smile, and Sehun swallows back a whimper. This &lt;em>other&lt;/em>, he doesn’t just look like Chanyeol. He’s a perfect copy. Despite this, Sehun’s still taken aback when Chanyeøl speaks.&lt;/p>
+&lt;p>“Sehun-ah&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.”&lt;/p>
+&lt;p>Sehun stares, mouth agape, and Chanyeøl takes a few confident steps towards him, closing the gap considerably. He holds his arms open like he’s greeting a friend, and if Sehun could just loose his arrow, it would be ridiculously easy to take him out. But Sehun can’t.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>The suffix ‘-ah’ is used when the speaker is addressing someone they are close to or older than.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>

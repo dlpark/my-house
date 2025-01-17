@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>University on Damien's House</title><link>https://dlpark.github.io/my-house/tags/university/</link><description>Recent content in University on Damien's House</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dlpark.github.io/my-house/tags/university/index.xml" rel="self" type="application/rss+xml"/><item><title>Academic Paper - Honours Final Report</title><link>https://dlpark.github.io/my-house/p/academic-paper-honours-final-report/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://dlpark.github.io/my-house/p/academic-paper-honours-final-report/</guid><description>&lt;h2 id="project-information">Project Information
+&lt;/h2>&lt;h3 id="the-background">The Background
+&lt;/h3>&lt;p>I attended Glasgow Caledonian University studying Computing (Web Systems Development) from 2010 to 2015. For our final year honours project, we had to either select an example idea from a booklet of tutor-compiled prompts or write a proposal for a project of our own. I was one of very few students who opted to devise my own project.&lt;/p>
+&lt;p>Reading has been a lifelong passion of mine, and I have been absolutely fascinated by eBooks since I first learned of their existence. I knew this would be a perfect opportunity to learn more about the open ePub eBook standard, and decided after some surface research that investigation into platform support for features within the standard could yield some interesting results.&lt;/p>
+&lt;h3 id="the-question">The Question
+&lt;/h3>&lt;blockquote>
+&lt;p>Do current eReading applications provide enough support for fully standards-compliant, interactive, accessible eBooks developed using the EPUB 3 standard to make their development a viable practice for publishers?&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="the-project">The Project
+&lt;/h3>&lt;p>The first stage of my project consisted of reviewing literature and documentation to familiarise myself with the ePub standard and how eBooks in ePub format are structured. I then moved on to plan, create, and test an ePub 3.0 standard compliant eBook to determine the support for its features across a range of devices and platforms.&lt;/p>
+&lt;h3 id="the-findings">The Findings
+&lt;/h3>&lt;p>It was found that accessibility was a prominent area in which support was lacking, both across dedicated eInk devices and e-reading software on other devices, such as personal computers, phones and tablets. Software created for reading ePub files was found to be somewhat inconsistent in areas of support, with certain pieces of software prioritising features based on use cases, such as MathML support. It would be interesting to revisit this now that a decade has passed and assess whether developers of e-reading software and eInk devices have moved towards supporting more accessibility features.&lt;/p>
+&lt;h2 id="full-report">Full Report
+&lt;/h2>&lt;p>For anyone keen to read the report that resulted from my honours project, I have embedded it here.&lt;/p>
+&lt;p>&lt;strong>Please note&lt;/strong>: I have redacted my former first name which changed as part of my transition, but have retained my former surname.&lt;/p>
+&lt;object data="hons.pdf" type="application/pdf" width="700px" height="700px">
+&lt;embed src="hons.pdf">
+&lt;p>This browser does not support PDFs. Please download the PDF to view it: &lt;a href="hons.pdf">Final Report&lt;/a>.&lt;/p>
+&lt;/embed>
+&lt;/object></description></item></channel></rss>
