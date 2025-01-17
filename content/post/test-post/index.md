@@ -2,7 +2,6 @@
 title: First Post!
 description: A brief introduction.
 date: 2024-08-21
-weight: 1   #Using a weight value to make posts sticky
 ---
 
 Hello, and welcome to this - my portfolio?  Blog?  Collection of ponderings?
